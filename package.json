@@ -1,0 +1,27 @@
+{
+  "name": "damascus",
+  "version": "0.0.1",
+  "description": "Cryptocurrency trading and analysis tools, using CCXT.",
+  "keywords": [
+    "cryptocurrency",
+    "ccxt"
+  ],
+  "homepage": "https://github.com/RegiAdi/damascus#readme",
+  "bugs": {
+    "url": "https://github.com/RegiAdi/damascus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RegiAdi/damascus.git"
+  },
+  "license": "ISC",
+  "author": "Regi Adi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ccxt": "^4.4.77"
+  }
+}
